@@ -3,15 +3,16 @@ A way to play the popular Card Game Castle Combat through Video calls with anyon
 
 See here all the resent updates to the game from patch to patch and update to update 
 
+All patches/Updates are right now in Alpha
 
-Patch, Version 1.1
+Patch, Alpha Version 1.1
 Better Camera System so it scales with how big your Screen Size is
 
-Patch, Version 1.1.5 
+Patch,  Alpha Version 1.1.5 
 Dice Number now actually exist's and the Camera's the same 
 
-Update, Version 1.2
+Update, Alpha Version 1.2
 coming March 16th
 
-Minor Update, Version 1.2.5
+Minor Update,  Alpha Version 1.2.5
 How to video on https://www.youtube.com/channel/UCMW1rC4HJrIQUA51-kHJuEg and will be released sometime soon
