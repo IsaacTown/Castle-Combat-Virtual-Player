@@ -17,5 +17,5 @@ Better Play Card system and a button that sends you to this Update page
 Update,Version 1.3
 2 Dice buttons and and 2 dice numbers and flipped UI on one side to work better when between 2 people
 
-Patch, Version 1.2.5
+Patch, Version 1.3.5
 How to video on https://www.youtube.com/channel/UCMW1rC4HJrIQUA51-kHJuEg and will be released sometime soon
