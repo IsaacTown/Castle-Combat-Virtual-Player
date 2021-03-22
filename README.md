@@ -20,5 +20,9 @@ Update,Version 1.3
 Minor Update, Version 1.3.5
 Select Menu to be able to choose between Virtual and In-Person game
 
+
 Patch, Version 1.3.1
+Dice for Virtual Version actually works
+
+SUPER Minor Update, Version 1.3.2
 maybe a How To Video?
