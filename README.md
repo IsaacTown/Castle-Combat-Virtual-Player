@@ -11,18 +11,17 @@ Better Camera System so it scales with how big your Screen Size is
 Patch,  Beta Version 1.1.5 
 Dice Number now actually exist's and the Camera's the same 
 
-Update, ABeta Version 1.2
+Update, Beta Version 1.2
 Better Play Card system and a button that sends you to this Update page
 
-Update,Version 1.3
+Update, WebGL Version 1.0
 2 Dice buttons and and 2 dice numbers and flipped UI on one side to work better when between 2 people
 
-Minor Update, Version 1.3.5
+Minor Update, WebGL Version 1.5
 Select Menu to be able to choose between Virtual and In-Person game
 
-
-Patch, Version 1.3.1
+Patch, Version WebGL 1.5.1
 Dice for Virtual Version actually works
 
-SUPER Minor Update, Version 1.3.2
+SUPER Minor Update, WebGL Version 1.5.2
 maybe a How To Video?
