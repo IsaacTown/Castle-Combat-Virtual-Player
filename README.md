@@ -24,4 +24,4 @@ Patch, Version WebGL 1.5.1
 Dice for Virtual Version actually works
 
 SUPER Minor Update, WebGL Version 1.5.2
-maybe a How To Video?
+WebGL Layout now fits the game
