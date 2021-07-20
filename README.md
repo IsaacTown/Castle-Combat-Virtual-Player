@@ -20,8 +20,8 @@ Update, WebGL Version 1.0
 Minor Update, WebGL Version 1.5
 Select Menu to be able to choose between Virtual and In-Person game
 
-Patch, Version WebGL 1.5.1
+Patch, WebGL Version 1.5.1
 Dice for Virtual Version actually works
 
-SUPER Minor Update, WebGL Version 1.5.2
-WebGL Layout now fits the game
+Update, WebGL Version 1.6.0
+WebGL Layout now fits the game.
