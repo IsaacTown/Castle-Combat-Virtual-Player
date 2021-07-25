@@ -34,4 +34,4 @@ Full release on Apple and Android maybe soon.
 
 Link to the game can be found here: https://isaactown.github.io/Castle-Combat-Virtual-Player
 
-(Note before Full release the game can not be played on phones, because of how Unity WebGL works. Sorry :)
+Note before Full release the game can not be played on phones, because of how Unity WebGL works. Sorry :)
