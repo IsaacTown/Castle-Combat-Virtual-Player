@@ -1,9 +1,7 @@
 # Castle-Combat-Virtual-Player
 A way to play the popular Card Game Castle Combat through Video calls with anyone you want or just make it easier to play with people IRL
 
-See here all the resent updates to the game from patch to patch and update to update 
-
-All patches/Updates are right now in Beeta
+See here all the resent updates to the game 
 
 Patch, Beta Version 1.1
 Better Camera System so it scales with how big your Screen Size is
@@ -23,5 +21,17 @@ Select Menu to be able to choose between Virtual and In-Person game
 Patch, WebGL Version 1.5.1
 Dice for Virtual Version actually works
 
-Update, WebGL Version 1.6.0
+Update, WebGL Version 1.5.2
 WebGL Layout now fits the game.
+
+Update, WebGl Version 1.6.0
+Better losing condition, removal of "I ran out of cards" button.
+(COMING VERY SOON)
+
+Website release on Castle-Combat.com coming in the near future.
+
+Full release on Apple and Android maybe soon.
+
+Link to the game can be found here: https://isaactown.github.io/Castle-Combat-Virtual-Player
+
+(Note before Full release the game can not be played on phones, because of how Unity WebGL works. Sorry :)
