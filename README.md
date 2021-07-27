@@ -27,7 +27,9 @@ WebGL Layout now fits the game.
 Update, WebGl Version 1.6.0
 Better losing condition, removal of "I ran out of cards" button. introducing 6/6 and 8/8 deck diffrentation.
 
-1.16.1 8/8 decks are now accessable 
+Update, 1.16.1 8/8 decks are now accessable 
+
+Update, 1.16.2 Dice function has been fixed
 
 Website release on Castle-Combat.com coming in the near future.
 
